@@ -11,6 +11,14 @@ A simple terminal-based YouTube Manager application built with Python.
 - Exit the application
 - Basic error handling
 
+## Tech Used
+
+- Python
+- File Handling
+- Exception Handling
+- Functions
+- Lists / Dictionaries
+
 ## How It Works
 
 The application runs in the terminal and stores the video data locally
